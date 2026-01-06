@@ -1,0 +1,7 @@
+{
+  "name": "THỰC HÀNH",
+  "description": "Ứng dụng học tập thông minh giúp học sinh làm chủ danh pháp hóa học hữu cơ với bài giảng chi tiết, bài tập trắc nghiệm và trợ lý AI Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
